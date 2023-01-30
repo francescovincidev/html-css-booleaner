@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+
+.banner{
+    height: 120px;
+    background-color: lightskyblue;
+    background-image: url(../img/pattern.png);
+    background-size: contain; 
+
+}
+
+.logo{
+    height: 50%;
+    margin-top: 60px;
+    
+}
+
+h1{
+    font-size: 3rem;
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+
+.credit{
+    color: gray;
+}
+
+.autor{
+
+    font-weight: bold;
+
+}
+
+.date{
+    font-size: 12px;
+}
+
+.booleaner{
+    color: lightskyblue;
+}
