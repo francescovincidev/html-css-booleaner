@@ -3,16 +3,17 @@ body{
 }
 
 .banner{
-    height: 120px;
+
     background-color: lightskyblue;
     background-image: url(../img/pattern.png);
-    background-size: contain; 
+    background-size: 38%;
 
 }
 
 .logo{
-    height: 50%;
+    height: 60px;
     margin-top: 60px;
+
     
 }
 
