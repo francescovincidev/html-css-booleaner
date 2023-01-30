@@ -48,7 +48,7 @@ h1{
 }
 
 /* MAIN */
-main, .logo, .title{
+main, .logo, .title, footer{
     margin-left: 8px;
 }
 
@@ -94,3 +94,37 @@ thead{
 
 /* FINE TABELLA */
 
+/* footer */
+footer{
+    font-weight: bold;
+}
+
+.advtitle{
+    color: grey;
+    margin-bottom: 10px;
+}
+
+.adv{
+
+    height: 120px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+
+
+.adv1{
+    background-image: url(../img/monitor.jpg);
+    margin-bottom: 10px;
+    
+}
+
+.adv2{
+    background-image: url(../img/graph.jpg);
+}
+
+.advtext{
+    padding-top: 5px;
+    margin-left: 10px;
+}
